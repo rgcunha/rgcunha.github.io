@@ -7,9 +7,9 @@
 
 # Site settings
 title: Ruben Cunha
-email: ruben.cunha@domain.com
+email: ruben dot cunha at gmail dot com
 description: >
-  Ruben Cunha's technical blog and portfolio site.
+  Frontend developer based in Berlin.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: rgcunha84
@@ -17,3 +17,5 @@ github_username:  rgcunha
 
 # Build settings
 markdown: kramdown
+
+include: ['_pages']
